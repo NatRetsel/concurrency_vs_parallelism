@@ -1,0 +1,19 @@
+{
+  "name": "js_examples",
+  "version": "1.0.0",
+  "description": "concurrency examples in JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatRetsel/concurrency_vs_parallelism.git"
+  },
+  "author": "NatRetsel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NatRetsel/concurrency_vs_parallelism/issues"
+  },
+  "homepage": "https://github.com/NatRetsel/concurrency_vs_parallelism#readme"
+}
